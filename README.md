@@ -34,3 +34,15 @@ The neural network is basically a function approximator for the Q function.
 >   2. push cart to the left
 > * Reward : acquires +1 reward for every timestep until the termination  
 >           (Well builted DQN model has a return value more than 200) 
+
+
+
+
+## result
+The initial value 
+* gamma : 0.98 
+* learning rate : 0.0005
+
+The result of Bayesian-optimization 
+* gamma : 0.82
+* learning_rate: 0.000691
