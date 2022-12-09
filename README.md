@@ -5,7 +5,7 @@ Optimizing hyper-parameters is quite time-consuming task and Bayesian-optimizati
 In this experiment, two hyper-parameters (learning-rate, gamma) will be optimized using BO.
 
 --------------
-## About hyper-parameter
+### About hyper-parameter
 The description of each variable is as follows.  
 Note that for Bayesian Optmization, the hyperparameter to be tuned should be passed in a form of tuple.  
 | Argument | Description |
@@ -14,4 +14,4 @@ Note that for Bayesian Optmization, the hyperparameter to be tuned should be pas
 |gamma|Discount factor in DQN|
 
 --------------
-## About DQN
+### About DQN
