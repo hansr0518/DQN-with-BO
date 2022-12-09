@@ -23,7 +23,7 @@ The neural network is basically a function approximator for the Q function.
 > * Input : State  
 > * Output : The Q-values for each action in the action space.  
 > * State space: 4 continuous values  
-> 1. cart position
-> 2. cart velocity
-> 3. pole angle
-> 4. pole velocity at the tip
+>   1. cart position
+>   2. cart velocity
+>   3. pole angle
+>   4. pole velocity at the tip
