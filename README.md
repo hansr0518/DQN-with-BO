@@ -31,4 +31,4 @@ The neural network is basically a function approximator for the Q function.
 >   1. push cart to the right
 >   2. push cart to the left
 > * Reward : acquires +1 reward for every timestep until the termination  
->   (Well builted DQN model has a return value more than 200) 
+>           (Well builted DQN model has a return value more than 200) 
