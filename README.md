@@ -39,10 +39,11 @@ The neural network is basically a function approximator for the Q function.
 
 
 ## result
-The initial value 
-* gamma : 0.98 
-* learning rate : 0.0005
+> The initial value 
+> * gamma : 0.98 
+> * learning rate : 0.0005
 
-The result of Bayesian-optimization 
-* gamma : 0.82
-* learning_rate: 0.000691
+
+> The result of Bayesian-optimization 
+> * gamma : 0.82
+> * learning_rate: 0.000691
