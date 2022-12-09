@@ -20,10 +20,10 @@ Note that for Bayesian Optmization, the hyperparameter to be tuned should be pas
 To find a optimal policy, we can use Q table.  
 When states is too large, it is batter to use a neural network.  
 The neural network is basically a function approximator for the Q function.  
-* Input : State  
-* Output : The Q-values for each action in the action space.  
-* State space: 4 continuous values  
-1. cart position
-2. cart velocity
-3. pole angle
-4. pole velocity at the tip
+> * Input : State  
+> * Output : The Q-values for each action in the action space.  
+> * State space: 4 continuous values  
+> 1. cart position
+> 2. cart velocity
+> 3. pole angle
+> 4. pole velocity at the tip
